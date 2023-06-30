@@ -4,7 +4,6 @@
   - [Overview of the book](chapter-1-1.md)
   - [Background information on personalized shopping experiences](chapter-1-2.md)
   - [Importance of Chatbots in the retail industry](chapter-1-3.md)
-  - [Objectives of the book](chapter-1-4.md)
 - [Chapter 1: Understanding Personalized Shopping Experiences](chapter-2.md)
   - [What is a Personalized Shopping Experience?](chapter-2-1.md)
   - [The Benefits of Personalization in Retail](chapter-2-2.md)

@@ -3,13 +3,6 @@ Advantages of Using ChatGPT in Retail
 
 In this chapter, we will introduce ChatGPT and explore the advantages of using this technology in retail.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an AI-powered chatbot that uses natural language processing to understand customer queries and provide relevant responses and recommendations. It is trained on massive amounts of data and can learn from customer interactions to improve its accuracy over time.
-
-ChatGPT can be integrated with websites, apps, messaging platforms, and voice assistants, providing a seamless and personalized shopping experience for customers across all channels.
-
 Advantages of Using ChatGPT in Retail
 -------------------------------------
 
