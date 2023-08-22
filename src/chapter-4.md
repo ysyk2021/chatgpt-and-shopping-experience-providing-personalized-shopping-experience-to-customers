@@ -1,5 +1,4 @@
-Chapter 3: Introduction to ChatGPT
-==================================
+
 
 ChatGPT is an AI-powered language model developed by OpenAI that uses natural language processing (NLP) to generate coherent and contextually appropriate responses to a wide range of queries. In this chapter, we will discuss what ChatGPT is, its features, advantages of using it in retail, and case studies on its implementation in retail.
 

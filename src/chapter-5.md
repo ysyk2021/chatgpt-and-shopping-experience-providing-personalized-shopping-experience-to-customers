@@ -1,5 +1,4 @@
-Chapter 4: How ChatGPT Provides Personalized Shopping Experiences
-=================================================================
+
 
 ChatGPT is a powerful tool for providing personalized shopping experiences to customers. In this chapter, we will explore how ChatGPT works and the personalization techniques that it uses to provide tailored recommendations and interactions.
 

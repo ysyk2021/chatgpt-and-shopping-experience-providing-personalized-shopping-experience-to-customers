@@ -1,5 +1,4 @@
-Case Studies on ChatGPT in Retail
-=====================================================================
+
 
 ChatGPT is a language model developed by OpenAI that uses deep learning to generate human-like responses to natural language queries. In this chapter, we will provide an introduction to ChatGPT and explore its use in retail through case studies.
 

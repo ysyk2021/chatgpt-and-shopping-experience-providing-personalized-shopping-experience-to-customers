@@ -1,5 +1,4 @@
-Evaluating ChatGPT's Performance and Effectiveness
-==================================================================================================
+
 
 In this chapter, we will explore the implementation of ChatGPT in retail and evaluate its performance and effectiveness.
 

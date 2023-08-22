@@ -1,5 +1,4 @@
-Types of Personalization Techniques Used in E-commerce
-==================================================================================================================
+
 
 Personalized shopping experiences have become increasingly important in e-commerce, providing significant advantages for businesses and customers alike. In this chapter, we will discuss some of the types of personalization techniques used in e-commerce.
 
