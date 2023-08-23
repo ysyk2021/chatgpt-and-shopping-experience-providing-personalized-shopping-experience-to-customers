@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce ChatGPT and explore the advantages of using this technology in retail.
 
 Advantages of Using ChatGPT in Retail

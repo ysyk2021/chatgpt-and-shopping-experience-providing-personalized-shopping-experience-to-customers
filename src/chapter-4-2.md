@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce the features of ChatGPT, an AI-powered chatbot that provides personalized shopping experiences for customers in retail.
 
 Natural Language Processing

@@ -1,5 +1,4 @@
 
-
 Chatbots and AI have become increasingly popular in the retail industry, providing significant advantages for businesses and customers alike. In this chapter, we will provide an overview of chatbots and AI.
 
 What are Chatbots?

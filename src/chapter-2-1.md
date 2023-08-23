@@ -1,5 +1,4 @@
 
-
 A personalized shopping experience is a retail experience that is tailored to meet the individual needs and preferences of each customer. This means providing customized recommendations, promotions, pricing strategies, and interactions that are relevant to the user's interests and behaviors.
 
 Personalization in retail can be applied to a wide range of areas, including:

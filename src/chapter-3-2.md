@@ -1,5 +1,4 @@
 
-
 Chatbots have become increasingly popular in the retail industry, providing significant advantages for businesses and customers alike. In this chapter, we will discuss some of the applications of chatbots in the retail industry.
 
 Customer Service

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the emerging trends and directions in chatbots and AI in retail, and how these technologies are evolving to meet changing customer needs and expectations.
 
 Voice-Enabled Assistants

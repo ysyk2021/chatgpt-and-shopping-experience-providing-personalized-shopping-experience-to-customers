@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how ChatGPT uses data to provide personalized shopping experiences for customers in retail.
 
 Customer Data Collection
