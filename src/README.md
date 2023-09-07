@@ -12,3 +12,7 @@ By understanding the personalization techniques used in ChatGPT, businesses can 
 The objective of this book is to provide readers with an understanding of how ChatGPT is transforming the shopping experience by providing personalized recommendations and assistance to customers. By the end of this book, readers will have a comprehensive understanding of how ChatGPT can enhance their personalization capabilities and gain valuable insights into customer behavior, increasing customer satisfaction and loyalty.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
