@@ -1,5 +1,4 @@
-Chapter 4: How Chatbots Can Enhance the Shopping Experience
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant role that chatbots play in enhancing the shopping experience for customers. Chatbots, and specifically ChatGPT, are revolutionizing the way customers interact with retailers and are contributing to the creation of highly personalized and efficient shopping journeys.
 

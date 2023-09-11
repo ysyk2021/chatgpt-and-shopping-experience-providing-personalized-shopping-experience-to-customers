@@ -1,5 +1,4 @@
-Chapter 5: Evaluating ChatGPT's Performance and Effectiveness
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the methods and metrics for evaluating the performance and effectiveness of ChatGPT in providing personalized shopping experiences to customers in the retail sector. Accurate assessment is crucial to ensure that the AI system meets its intended objectives and delivers value to both retailers and customers.
 

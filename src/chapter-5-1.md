@@ -1,5 +1,4 @@
-Chapter 2: How ChatGPT Works
-============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the inner workings of ChatGPT, the advanced AI model that powers the personalized shopping experience provided to customers. Understanding how ChatGPT operates is essential to appreciate its capabilities in tailoring the shopping journey for each individual.
 

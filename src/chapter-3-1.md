@@ -1,5 +1,4 @@
-Chapter 1: An Overview of Chatbots and AI
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this introductory chapter, we will provide an overview of chatbots and Artificial Intelligence (AI) to establish a foundational understanding of the technology that powers the personalized shopping experience discussed throughout this book.
 

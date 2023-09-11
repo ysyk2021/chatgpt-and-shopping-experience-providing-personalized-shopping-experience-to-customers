@@ -1,5 +1,4 @@
-Chapter 3: Personalization Techniques Used in ChatGPT
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the various personalization techniques employed in ChatGPT to provide a tailored and enhanced shopping experience to customers. Personalization is a key component in ensuring that customers feel valued and understood, ultimately leading to increased customer satisfaction and loyalty.
 

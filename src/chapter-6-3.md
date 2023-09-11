@@ -1,5 +1,4 @@
-Chapter 2: Training ChatGPT and Managing Conversations
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the intricacies of training ChatGPT and effectively managing conversations with the AI model to deliver a personalized shopping experience to customers.
 

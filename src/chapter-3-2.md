@@ -1,5 +1,4 @@
-Chapter 5: Chatbot Applications in the Retail Industry
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the diverse and innovative applications of chatbots within the retail industry. Chatbots have emerged as powerful tools for retailers, offering a wide range of capabilities to enhance customer experiences, streamline operations, and drive business growth.
 

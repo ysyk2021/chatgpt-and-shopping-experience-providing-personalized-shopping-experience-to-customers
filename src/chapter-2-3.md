@@ -1,5 +1,4 @@
-Chapter 6: Types of Personalization Techniques Used in E-Commerce
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into various types of personalization techniques employed in e-commerce to enhance the shopping experience for customers. These techniques leverage data and AI-driven strategies to provide tailored and relevant interactions.
 

@@ -1,5 +1,4 @@
-Chapter 4: How ChatGPT Uses Data to Provide Personalized Shopping Experiences
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of personalized shopping experiences, ChatGPT plays a pivotal role in leveraging data to create tailored interactions that cater to the unique needs and preferences of each customer. This chapter delves into the mechanisms by which ChatGPT harnesses data to deliver personalized shopping experiences, ultimately enhancing customer satisfaction and driving business success.
 

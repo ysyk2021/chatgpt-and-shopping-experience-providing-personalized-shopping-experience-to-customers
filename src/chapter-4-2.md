@@ -1,5 +1,4 @@
-Chapter 4: The Features of ChatGPT
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the key features of ChatGPT, the advanced natural language processing model that plays a central role in providing personalized shopping experiences to customers in the retail sector.
 

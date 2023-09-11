@@ -1,5 +1,4 @@
-Chapter 2: What Is a Personalized Shopping Experience?
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of a personalized shopping experience and its significance in the context of modern retail. A personalized shopping experience is more than just a trend; it has become a fundamental strategy for retailers aiming to meet the evolving needs and preferences of today's consumers.
 

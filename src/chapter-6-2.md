@@ -1,5 +1,4 @@
-Chapter 6: Integration with Existing Retail Systems
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial aspect of integrating ChatGPT into existing retail systems to provide a seamless and personalized shopping experience for customers. Successful integration ensures that the AI-driven shopping assistant works harmoniously with established retail infrastructure.
 
